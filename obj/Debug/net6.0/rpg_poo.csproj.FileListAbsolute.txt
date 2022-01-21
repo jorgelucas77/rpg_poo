@@ -1,0 +1,15 @@
+C:\treinamentos\rpg_poo\bin\Debug\net6.0\rpg_poo.exe
+C:\treinamentos\rpg_poo\bin\Debug\net6.0\rpg_poo.deps.json
+C:\treinamentos\rpg_poo\bin\Debug\net6.0\rpg_poo.runtimeconfig.json
+C:\treinamentos\rpg_poo\bin\Debug\net6.0\rpg_poo.dll
+C:\treinamentos\rpg_poo\bin\Debug\net6.0\ref\rpg_poo.dll
+C:\treinamentos\rpg_poo\bin\Debug\net6.0\rpg_poo.pdb
+C:\treinamentos\rpg_poo\obj\Debug\net6.0\rpg_poo.csproj.AssemblyReference.cache
+C:\treinamentos\rpg_poo\obj\Debug\net6.0\rpg_poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\treinamentos\rpg_poo\obj\Debug\net6.0\rpg_poo.AssemblyInfoInputs.cache
+C:\treinamentos\rpg_poo\obj\Debug\net6.0\rpg_poo.AssemblyInfo.cs
+C:\treinamentos\rpg_poo\obj\Debug\net6.0\rpg_poo.csproj.CoreCompileInputs.cache
+C:\treinamentos\rpg_poo\obj\Debug\net6.0\rpg_poo.dll
+C:\treinamentos\rpg_poo\obj\Debug\net6.0\ref\rpg_poo.dll
+C:\treinamentos\rpg_poo\obj\Debug\net6.0\rpg_poo.pdb
+C:\treinamentos\rpg_poo\obj\Debug\net6.0\rpg_poo.genruntimeconfig.cache
